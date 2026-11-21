@@ -1,0 +1,17 @@
+[
+  {
+    "token": "d978f683d71b0d72056e0d899bd768ea56c45e96441ce846640567a11d049c2e",
+    "studentId": "stu-5c531a76-ef91-408e-a336-2739c04fbf58",
+    "createdAt": "2026-11-17T07:02:25.695Z"
+  },
+  {
+    "token": "e4df21c51ca51087882b05aacd74ed4eb65b08e5f491fb62631eacede85cd46e",
+    "studentId": "stu-seed-101",
+    "createdAt": "2026-11-17T07:03:49.088Z"
+  },
+  {
+    "token": "9905e8253ee2f9f47cf854d29ba20f03b386e92291694c10530fffcfe31717cb",
+    "studentId": "stu-seed-101",
+    "createdAt": "2026-11-17T07:48:24.456Z"
+  }
+]
